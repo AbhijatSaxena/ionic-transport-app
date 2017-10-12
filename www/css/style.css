@@ -1,0 +1,13 @@
+.mapWrap {
+  height: 100%;
+}
+
+.custom-icon {
+  background-color: inherit !important;
+}
+
+.list-item {
+  margin-top: 0 !important;
+  padding: 0 !important;
+  border-bottom: 1px solid grey;
+}
